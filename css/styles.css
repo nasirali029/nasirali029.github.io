@@ -45,7 +45,7 @@ nav a:visited { color: #003300; }
 nav a:hover { color: #996600; }
 
 /* image file on the home page*/
-#home_p {  	background-image: url(../images/home_page.png);
+#home_p {  	background-image: url(/images/home_page.png);
 			background-repeat: no-repeat;	
             height: 400px;
 			background-size: 100% 100%;
