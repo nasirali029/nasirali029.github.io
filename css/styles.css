@@ -53,9 +53,9 @@ nav a:hover { color: #996600; }
 }
 
 /* image file on the Arduino page*/
-#research_p {	background-image: url(../images/Arduino.png);
+#research_p {	background-image: url(/images/Arduino.png);
 			    background-repeat: no-repeat;	
-                height: 385px;
+                height: 592px;
 			    background-size: 100% 100%;
 }
 
