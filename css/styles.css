@@ -47,7 +47,7 @@ nav a:hover { color: #996600; }
 /* image file on the home page*/
 #home_p {  	background-image: url(/images/home_page.png);
 			background-repeat: no-repeat;	
-            height: 400px;
+            height: 836px;
 			background-size: 100% 100%;
 			margin-left:20%;				
 }
