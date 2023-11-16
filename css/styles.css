@@ -19,8 +19,8 @@ body { font-family: Verdana, Arial, sans-serif;
 
 h2 { font-size: 1.1em; }
  
-header { border: 1px solid blue;
-         background-color: blue;	
+header { border: 1px solid orange;
+         background-color: orange;	
 		 line-height: 300%;
 }
 
@@ -61,13 +61,13 @@ nav a:hover { color: #996600; }
 
 
 /* image file on the raspberry page*/
-#rasp_p {	background-image: url(../images/raspberry.png);
+#rasp_p {	background-image: url(images/raspberry.png);
 	background-repeat: no-repeat;	
 	height: 385px;
 	background-size: 100% 100%;
 }
 
-#control_p {	background-image: url(../images/control.png);
+#control_p {	background-image: url(/images/control.png);
 	background-repeat: no-repeat;	
 	height: 385px;
 	background-size: 100% 100%;
